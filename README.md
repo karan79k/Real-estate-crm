@@ -1,12 +1,66 @@
-# React + Vite
+# 🏡 Real Estate CRM Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **modern and responsive** CRM dashboard for managing real estate properties, clients, inquiries, and sales. Built with **React, Tailwind CSS, Material UI, and Recharts**, this dashboard provides dynamic charts, progress tracking, and an elegant UI.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features  
 
-## Expanding the ESLint configuration
+👉 **Modern UI/UX** – Clean and responsive design  
+👉 **Dashboard Overview** – Key metrics and sales tracking  
+👉 **Advanced Charts** – Line charts, Pie charts, and Revenue analytics  
+👉 **Property & Client Management** – Track properties, clients, and inquiries  
+👉 **Navigation System** – Navbar with dynamic profile dropdown  
+👉 **Dynamic Progress Bars** – Status updates for ongoing & completed tasks  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack  
+
+- **Frontend**: React, Vite, Tailwind CSS, Material UI  
+- **Charts**: Recharts (Line, Pie, and Revenue Charts)  
+- **Icons**: Lucide-react  
+- **Routing**: React Router  
+
+---
+
+## 📌 Installation & Setup  
+
+### 1⃣ Clone the Repository  
+
+```sh
+git clone https://github.com/yourusername/real-estate-crm.git
+cd real-estate-crm
+```
+
+### 2⃣ Install Dependencies  
+
+```sh
+npm install
+```
+
+### 3⃣ Start the Development Server  
+
+```sh
+npm run dev
+```
+
+
+
+---
+
+## 📸 Screenshots  
+(![Screenshot 2025-03-20 142412](https://github.com/user-attachments/assets/d005e03c-e602-4a43-88b5-121f31c6d450),
+![Screenshot 2025-03-20 142428](https://github.com/user-attachments/assets/cfc9bff0-f8e3-4b93-8678-22f0f9a6ce71)
+
+
+
+---
+
+
+## 🐜 License  
+
+This project is **open-source** under the **MIT License**.  
+
+--
+
