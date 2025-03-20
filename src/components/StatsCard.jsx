@@ -2,7 +2,6 @@ const StatsCard = ({ title, value, completed, total, color }) => {
   
   const progress = total > 0 ? (completed / total) * 100 : 0;
 
-  // Define colors manually (since Tailwind does not support dynamic class names)
   const colorClasses = {
     blue: "bg-blue-500",
     green: "bg-green-500",
